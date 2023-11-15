@@ -1,0 +1,115 @@
+/* h1 {
+    color: pink;
+}
+
+.title-h2 {
+    color: blue;
+    font-family: sans-serif;
+}
+
+.title-h2-second {
+    color: bisque;
+}
+
+#unique-3 {
+    color: azure;
+    background-color: black;
+    font-size: 60px;
+}
+
+span {
+    font-size: 40px;
+    background-color: aqua;
+} */
+
+/* ------------------------------------------ */
+/* body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.div1 {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div2 {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div3 {
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div4 {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div5 {
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+
+/* ---------------------------------------------------- */
+
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    color: chartreuse;
+}
+
+input {
+    width: 200px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: chartreuse;
+    font-size: 15px;
+    color: red;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: violet;
+    color: blue;
+    transition: 30s;
+}
